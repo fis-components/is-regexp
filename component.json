@@ -1,0 +1,9 @@
+{
+    "name": "is-regexp",
+    "description": "Check whether a variable is a regular expression",
+    "repos": "https://github.com/sindresorhus/is-regexp",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.0"
+}
